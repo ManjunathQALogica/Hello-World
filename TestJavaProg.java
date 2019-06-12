@@ -5,4 +5,4 @@ public class TestJavaProg{
 		System.out.println("Welcome to Sotesys");
 	}
 
-}
+} 
